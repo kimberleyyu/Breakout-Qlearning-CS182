@@ -1,1 +1,1 @@
-# diabetic-retinopathy-detection
+# CS182 Project
